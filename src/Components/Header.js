@@ -17,7 +17,7 @@ const Header = () => {
       <Col>
         <Navbar color="light" light expand="md">
           <Link to="/" className="navbar-brand">
-            GND-Todo App
+            Xcel Props-Todo App
           </Link>
           <Collapse navbar>
             <Nav navbar className="ml-auto">
