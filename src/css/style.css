@@ -1,36 +1,38 @@
 html {
-    font-size: 16px;    
+  font-size: 16px;
 }
 
 .column {
-    padding: 1.5rem;
-    border: 1px solid #e3e3e3;
-    margin: auto;
-    margin-top: 10rem;
+  padding: 1.5rem;
+  border: 1px solid #e3e3e3;
+  margin: auto;
+  margin-top: 10rem;
 }
 
 .profile {
-    margin: 100px auto;
+  margin: 100px auto;
 }
 
 .form-control {
-    width: 90%;
+  width: 90%;
 }
 
 .add-todo {
-    margin: auto;
+  margin: auto;
 }
 
 .card-body {
-    padding: 0.50rem;
+  padding: 0.5rem;
 }
-
+.navbar-brand-logo {
+  color: #fff;
+}
 .todo-title {
-    display: inline-block;
-    margin-bottom: 0.5rem;
-    margin-left: 1rem;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  margin-left: 1rem;
 }
 
 .todo-title-p {
-    text-decoration: line-through;
+  text-decoration: line-through;
 }
